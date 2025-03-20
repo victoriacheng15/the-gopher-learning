@@ -27,6 +27,6 @@ func main() {
 	// This line will cause a compilation error
 	// Cannot re-assign a value to a const
 	// uncomment the below and run 'go run main.go'
-	test = "this will fail"
+	// test = "this will fail"
 	fmt.Println(test)
 }
