@@ -1,8 +1,9 @@
-// https://gobyexample.com/variables
-
 package main
 
 import "fmt"
+
+// Day 02: Declaring variables with types using `var`
+// https://gobyexample.com/variables
 
 func main() {
 	// declare 1 or more variable with var

@@ -5,6 +5,7 @@ import (
 	"math"
 )
 
+// Day 03: Declaring variables with types using `const`
 // 'const' is similar to 'var' for declaring variables.
 // The difference is that variables declared with 'var' can be re-assigned,
 // while variables declared with 'const' cannot be re-assigned.

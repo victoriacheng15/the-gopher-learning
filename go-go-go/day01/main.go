@@ -1,11 +1,11 @@
 // Go installation
 // https://go.dev/doc/install
 
-// the plain old hello world
-
 package main
 
 import "fmt"
+
+// Day 01: Basic "Hello, World!" function
 
 func main() {
 	fmt.Println("The usual hello world!")

@@ -1,10 +1,9 @@
 package main
 
-// Day 04: Working with basic data types: Booleans and Integers
-
 import "fmt"
 
-// basic data types - boolean and integers
+// Day 04: Data types - Booleans and Integers
+
 func allBooleans() {
 	// boolean
 	var b1 bool = true // typed declaration with initial value
