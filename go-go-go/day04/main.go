@@ -6,10 +6,10 @@ import "fmt"
 
 func allBooleans() {
 	// boolean
-	var b1 bool = true // typed declaration with initial value
-	var b2 = true      // untyped declaration with initial value
-	var b3 bool        // typed declaration without initial value
-	b4 := true         // untyped declaration with initial value
+	var b1 bool = true
+	var b2 = true
+	var b3 bool
+	b4 := true
 
 	fmt.Println("Boolean")
 	fmt.Println("boolean 1: ", b1) // Returns true
@@ -19,10 +19,10 @@ func allBooleans() {
 }
 
 func allSignedIntger() {
-	var n1 int = 500   // typed declaration with initial value
-	var n2 int = -4500 // typed declaration with initial value
-	n3 := 100          // untyped declaration with initial value
-	var n4 int         // typed declaration without initial value
+	var n1 int = 500
+	var n2 int = -4500
+	n3 := 100
+	var n4 int
 
 	fmt.Println("\nInteger - signed integers")
 	fmt.Println("Integer 1: ", n1) // Type: int, Value: 500
@@ -42,10 +42,10 @@ func allSignedIntger() {
 
 func allUnsignedInteger() {
 	// Unsigned integers
-	var n1 uint = 500  // typed declaration with initial value
-	var n2 uint = 4500 // typed declaration with initial value
-	n3 := 100          // untyped declaration with initial value
-	var n4 uint        // typed declaration without initial value
+	var n1 uint = 500
+	var n2 uint = 4500
+	n3 := 100
+	var n4 uint
 
 	fmt.Println("\nInteger - unsigned integers")
 	fmt.Println("Integer 1: ", n1) // Type: uint, Value: 500

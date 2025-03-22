@@ -11,7 +11,7 @@ import "fmt"
 
 func allFloat32() {
 	// float32
-	var x float32 = 500.75 // typed declaration with initial value
+	var x float32 = 500.75
 	var y float32 = 3.4e38
 
 	fmt.Println("Float - float32")
@@ -21,7 +21,7 @@ func allFloat32() {
 
 func allFloat64() {
 	// float64
-	var a float64 = 500.75 // typed declaration with initial value
+	var a float64 = 500.75
 	var b float64 = 1.7e308
 
 	fmt.Println("\nFloat - float64")
