@@ -12,3 +12,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 06: Data Type - string
 - Day 07: Data Type - byte and rune
 - Day 08: printf general formatting verbs
+- Day 09: Printf integer formatting verbs
