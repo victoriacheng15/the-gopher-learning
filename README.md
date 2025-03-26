@@ -11,5 +11,5 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 05: Data Types - floating-point numbers with float32 and float64\
 - Day 06: Data Type - string
 - Day 07: Data Type - byte and rune
-- Day 08: printf general formatting verbs
-- Day 09: Printf integer formatting verbs
+- Day 08: Printf `general` formatting verbs
+- Day 09: Printf `integer` formatting verbs

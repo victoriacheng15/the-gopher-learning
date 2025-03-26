@@ -1,6 +1,6 @@
 package main
 
-// Day 08: printf general formatting verbs
+// Day 08: Printf general formatting verbs
 // https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet/
 // https://gobyexample.com/string-formatting
 
