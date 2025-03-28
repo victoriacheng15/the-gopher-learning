@@ -13,4 +13,5 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 07: Data Type - byte and rune
 - Day 08: Printf `general` formatting verbs
 - Day 09: Printf `integer` formatting verbs
-- Day 10: printf `string` and `boolean` formatting verbs
+- Day 10: Printf `string` and `boolean` formatting verbs
+- Day 11: Printf `float` formatting verbs
