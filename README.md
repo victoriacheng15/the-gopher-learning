@@ -15,3 +15,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 09: Printf `integer` formatting verbs
 - Day 10: Printf `string` and `boolean` formatting verbs
 - Day 11: Printf `float` formatting verbs
+- Day 12: Printf vs Sprintf
