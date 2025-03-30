@@ -16,3 +16,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 10: Printf `string` and `boolean` formatting verbs
 - Day 11: Printf `float` formatting verbs
 - Day 12: Printf vs Sprintf
+- Day 13: For Loop
