@@ -20,3 +20,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 14: Range
 - Day 15: If/Else statements
 - Day 16: Switch statements
+- Day 17: Errors, Panic, and Recover
