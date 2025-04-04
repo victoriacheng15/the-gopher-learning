@@ -6,7 +6,7 @@ import "fmt"
 // https://gobyexample.com/functions
 
 func plus(a int, b int) int {
-	// include types for arguements and return value
+	// include types for arguments and return value
 	return a + b
 }
 
