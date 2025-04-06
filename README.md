@@ -23,3 +23,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 17: Errors, Panic, and Recover
 - Day 18: Functions
 - Day 19: Packages, imports, and exports
+- Day 20: Type casting
