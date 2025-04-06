@@ -29,7 +29,7 @@ func intToString() {
 func floatToInt() {
 	f := 12.56784242
 	i := int(f)
-	fmt.Println("\n--- Int to Float ---")
+	fmt.Println("\n--- Float to Int ---")
 	fmt.Printf("The type is %T, %v\n", f, f)
 	fmt.Printf("The type is %T, %v\n", i, i)
 }
