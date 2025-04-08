@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Day 21: Arrays
+// Day 22: Arrays
 // An array is a collection of elements of the same type with a fixed size that is determined at the time of creation.
 
 func main() {

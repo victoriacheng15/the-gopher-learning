@@ -25,4 +25,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 19: Packages, imports, and exports
 - Day 20: Type casting
 - Day 21: Type inference
-- Day 21: Arrays
+- Day 22: Arrays
