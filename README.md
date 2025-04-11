@@ -27,3 +27,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 21: Type inference
 - Day 22: Arrays
 - Day 23: Slices
+- Day 24: Maps
