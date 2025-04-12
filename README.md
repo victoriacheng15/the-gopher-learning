@@ -29,3 +29,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 23: Slices
 - Day 24: Maps
 - Day 25: Make()
+- Day 26: Structs
