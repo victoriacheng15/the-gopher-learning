@@ -31,3 +31,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 25: Make()
 - Day 26: Structs
 - Day 27: Types and type assertions
+- Day 28: Interfaces
