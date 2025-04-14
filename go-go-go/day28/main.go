@@ -1,10 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"math"
+)
 
 // Day 28: Interfaces
-// an interace defines a set of methods.
-// the different between interface and struct
+// an interface defines a set of methods.
+// the difference between interface and struct
 // interface: define behavior without implementation
 // struct: define a custom data type
 
@@ -30,11 +33,11 @@ func (r rectangle) perimeter() float64 {
 }
 
 func (c circle) area() float64 {
-	return 3.14 * c.radius * c.radius
+	return math.Pi * c.radius * c.radius
 }
 
 func (c circle) perimeter() float64 {
-	return 2 * 3.14 * c.radius
+	return 2 * math.Pi * c.radius
 }
 
 func printGeometry(g geometry) {
@@ -44,23 +47,24 @@ func printGeometry(g geometry) {
 }
 
 func detectCircle(g geometry) {
-	if _, ok := g.(circle); ok {
-		fmt.Println("The shape is circle and radius is", g.(circle).radius)
+	if circleShape, ok := g.(circle); ok {
+		fmt.Println("The shape is circle and radius is", circleShape.radius)
 	} else {
 		fmt.Println("This is not a circle")
 	}
 }
 
 func main() {
-	r := rectangle{width: 3, height: 4}
-	c := circle{radius: 5}
+	rect := rectangle{width: 3, height: 4}
+	circ := circle{radius: 5}
+
 	fmt.Println("--- Geometry ---")
-	printGeometry(r)
+	printGeometry(rect)
 	fmt.Println()
-	printGeometry(c)
+	printGeometry(circ)
 
 	fmt.Println("\n--- Detect Circle ---")
-	detectCircle(r)
+	detectCircle(rect)
 	fmt.Println()
-	detectCircle(c)
+	detectCircle(circ)
 }
