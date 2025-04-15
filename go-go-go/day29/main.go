@@ -9,7 +9,7 @@ import (
 )
 
 // Day 29: Context
-// context package provides a sandard way to solve the problem of managing the state during a request.
+// context package provides a standard way to solve the problem of managing the state during a request.
 // https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
 // https://gobyexample.com/context
 // net/http package: https://pkg.go.dev/net/http
