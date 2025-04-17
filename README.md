@@ -34,3 +34,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 28: Interfaces
 - Day 29: Context
 - Day 30: Goroutines
+- Day 31: Channels
