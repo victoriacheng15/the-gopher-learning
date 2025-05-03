@@ -38,3 +38,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 32: Buffer
 - Day 33: Select
 - Day 34: Mutex
+- Day 35: Scheduler
