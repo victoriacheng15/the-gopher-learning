@@ -40,3 +40,4 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 34: Mutex
 - Day 35: Scheduler
 - Day 36: Generics
+- Day 37: Pointers
