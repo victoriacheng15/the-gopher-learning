@@ -12,6 +12,10 @@ func zeroValue(ival int) {
 }
 
 func zeroPointer(iptr *int) {
+	if iptr == nil {
+		fmt.Println("iptr is nil")
+		return
+	}
 	*iptr = 0
 }
 
