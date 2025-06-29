@@ -1,0 +1,3 @@
+The quick brown gopher jumps over the lazy gopherdog.
+Learning Go is fun with simple CLI tools!
+This is a random sample file for Day 39.
