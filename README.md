@@ -41,4 +41,5 @@ This is my Go learning journey—basically a documentary of me wrestling with Go
 - Day 35: Scheduler
 - Day 36: Generics
 - Day 37: Pointers
-- DAy 38: JSON
+- Day 38: JSON
+- Day 39: A simple CLI that reads a file with cobra
